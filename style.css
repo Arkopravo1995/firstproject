@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.top{
+    background-color: rgb(54, 45, 45);
+    overflow: hidden;
+
+}
+.top li{
+    list-style: none;
+}
+.top li a{
+    float: right;
+    display: flex;
+    color: #f2f2f2;
+
+}
